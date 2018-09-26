@@ -12,5 +12,5 @@ that can stop car with command
 easy you can customize that for your own purpose.
 
 
-for more information contact with email : aliasgharjanali@gmail.com
+for more information and get SOURCE FILE contact with email : aliasgharjanali@gmail.com
 
